@@ -3,8 +3,8 @@
     {
       "kty": "RSA",
       "use": "sig",
-      "kid": "pentesterlab",
-      "n": "q0IhJa-dgWt5tWQbbCIibNDOvgHiggWao31HWVoQ0-txIMqfi20cw1ruA4uMKzr7yIrkeV5yQA69LxtVMZXLOQ",
+      "kid": "ptlab",
+      "n": "hx5VEK5TuYL0Bm-gLLZsHT691bDlnvUMhFN5qI6kHYf8OLgwQFnMP8EIX1wivz_0zyonZ3MwYgTUJ76PAsZEkQ",
       "e": "AQAB",
       "alg": "RS256"
     }
